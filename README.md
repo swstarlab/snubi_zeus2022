@@ -1,3 +1,5 @@
+> ## This repository corresponds to ActMap in the [ALTA](https://github.com/swstarlab) project. 
+
 # snubi_zeus2022
 roboworld 2022의 R-BIZ 챌린지를 위한 snubi팀 코드
 
